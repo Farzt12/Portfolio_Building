@@ -13,8 +13,7 @@ def tampilkan_kontak():
         "[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/username)"
     )
     # Email
-    st.markdown(
-        st.write("📧 Email: farisalqodri@gmail.com")
+    st.write("📧 Email: farisalqodri@gmail.com")
     # WhatsApp
     st.markdown(
         "[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-blue)](https://wa.me/6281234567890)"
