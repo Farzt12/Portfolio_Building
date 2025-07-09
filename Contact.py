@@ -14,8 +14,7 @@ def tampilkan_kontak():
     )
     # Email
     st.markdown(
-        "[![Email](https://img.shields.io/badge/Email-Contact-blue)](farisalqodri@gmail.com)"
-    )
+        st.write("📧 Email: farisalqodri@gmail.com")
     # WhatsApp
     st.markdown(
         "[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-blue)](https://wa.me/6281234567890)"
